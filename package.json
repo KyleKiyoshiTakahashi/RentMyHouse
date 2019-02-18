@@ -2,8 +2,8 @@
   "name": "react-starter-bwm",
   "version": "0.1.0",
   "engines": {
-    "node": "8.11.1",
-    "npm": "5.6.0"
+    "node": "10.13.0",
+    "npm": "6.5.0"
   },
   "private": true,
   "proxy": {
